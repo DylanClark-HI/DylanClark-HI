@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @DylanClark-HI
-- 👀 I’m interested in learning lots of new stuff. I very much like the idea of automated testing.
-- 🌱 I’m currently learning about what exactly a 'stack' is and how to implement different tools. I'm working a lot with Cypress automated testing stuff. 
-- 💞️ I’m looking to collaborate on ... nothing just yet.
+- 👀 I’m currently 4+ years into my career as a full-stack developer.
+- 👨‍💻 I have a passion for embedded systems, IoT, microcontrollers, and automation. I spend most of my free time tinkering with electronics and ICs.
+- 🌱 I’m currently learning Angular, PHP, Python, C#, some nifty SCSS tricks, MySql, and JS. All the usual tools needed for full-stack work!
+- 🎮 As for my hobbies, I'm currently learning about Machine Communication protocols (UART, SPI, I2C, etc), Analog Digital Converters, Data Loggers, and various analogue and digital sensor inputs. 
+- 🔩 I also enjoy functional 3D design. Mostly designs for 3D printed electronics enclosures, and editing designs to suit my needs. Nothing fancy
+- 💞️ I’m looking to collaborate on... nothing just yet. But maybe some sort of IoT project soon.
 - 📫 Email: welpro@live.com
 
 <!---
